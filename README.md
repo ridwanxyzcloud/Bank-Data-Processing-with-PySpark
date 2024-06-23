@@ -52,13 +52,17 @@ This project aims to streamline a simple data processing (exploration, cleaning)
 ## Step 2: Data Extraction
 
 - initializing a spark session
-- Extract data from the dataset. 
-
-    
-
-
-### Step 2
+- Extract data from the file. 
 
 ### Step 3
 
+- Exoplore the data and clean data
+
+### Step 3
+- transform the data and generate each table 
+
 ### Step 4
+- Model database
+
+### Step 5
+- Load data into respective table on the database 
