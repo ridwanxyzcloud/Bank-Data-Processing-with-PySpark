@@ -1,0 +1,6 @@
+pyspark
+pandas
+pytest
+sqlalchemy
+azure-synapse
+python-dotenv
